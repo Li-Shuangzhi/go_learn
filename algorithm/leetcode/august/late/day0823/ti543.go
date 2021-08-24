@@ -1,10 +1,8 @@
 package main
 
-type TreeNode struct {
-	Val   int
-	Left  *TreeNode
-	Right *TreeNode
-}
+import (
+	. "gocode/algorithm/utils"
+)
 
 func main() {
 
