@@ -1,9 +1,5 @@
 package main
 
-func main() {
-
-}
-
 func findKthLargest(nums []int, k int) int {
 	heapSize := len(nums)
 	buildMaxHeap(nums, heapSize)
