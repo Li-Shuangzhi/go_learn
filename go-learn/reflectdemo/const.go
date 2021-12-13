@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 type Kind uint
 
 const (
@@ -42,10 +40,10 @@ const (
 	c3 = iota + 1
 )
 
-func main() {
-	var b int
-	b = int(Bool)
-	fmt.Println(b)
-	fmt.Println(c0, c1, c2, c3)
-	fmt.Println()
-}
+//func main() {
+//	var b int
+//	b = int(Bool)
+//	fmt.Println(b)
+//	fmt.Println(c0, c1, c2, c3)
+//	fmt.Println()
+//}
