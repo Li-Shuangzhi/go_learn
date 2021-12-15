@@ -40,7 +40,7 @@ const (
 	c3 = iota + 1
 )
 
-//func main() {
+//func adapter() {
 //	var b int
 //	b = int(Bool)
 //	fmt.Println(b)

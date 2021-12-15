@@ -5,7 +5,7 @@ package main
 //
 //var parent []int
 //
-//func main() {
+//func adapter() {
 //	initFindUnion(9)
 //	fmt.Println(isConnected(1, 5))
 //	union(1, 5)

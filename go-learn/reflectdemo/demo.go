@@ -7,7 +7,7 @@ type Student struct {
 
 var Name string = "slz"
 
-//func main() {
+//func adapter() {
 //	student := 1
 //	typ := reflect.TypeOf(student)
 //	fmt.Println(typ)

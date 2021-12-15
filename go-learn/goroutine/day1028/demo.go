@@ -23,5 +23,5 @@ func main() {
 	wg.Add(1)
 	go hello()
 	wg.Wait()
-	fmt.Println("main")
+	fmt.Println("adapter")
 }
